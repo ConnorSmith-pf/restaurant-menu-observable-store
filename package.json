@@ -1,7 +1,7 @@
 {
   "name": "restaurant-menu-observable-store",
   "version": "0.0.0",
-  "homepage": "https://connorsmith-restaurant-menu-observable-store.github.io/",
+  "homepage": "https://connorsmith-pf.github.io/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
